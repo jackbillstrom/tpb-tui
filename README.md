@@ -13,13 +13,7 @@
 
 ## Installation
 
-Make sure you have Go installed (v1.20 or newer is recommended).
-
-To install `tpb-tui`, run:
-
-```bash
-go get -u github.com/jackbillstrom/tpb-tui
-```
+Head to the [Releases section](https://github.com/jackbillstrom/tpb-tui/releases) and follow the given instructions from there :tada:
 
 ## Usage
 
