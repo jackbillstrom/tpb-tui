@@ -1,0 +1,2 @@
+udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
